@@ -1,0 +1,11 @@
+Use Cases
+
+1. User connects to their Spotify account
+
+2. User browses through their list of playlists, decides to add a certain amount of songs
+
+3. User can preview/listen to the returned songs before saving them
+
+4. User can select to add all/certain songs to their existing playlist
+
+5. User can confirm their additions and save the playlist
