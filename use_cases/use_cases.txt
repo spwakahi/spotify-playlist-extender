@@ -9,5 +9,6 @@ Use Cases
   As a user, when the webapp returns a list of songs that are a good fit for a selected playlist, I want to be able to listen to a "preview" or a short snippet of each song so I can decide whether I like the song/ want to add it to a new playlist. 
 
 4. User can select to add all/certain songs to their existing playlist (Steven)
+ A user sees songs he likes from the playlist generated from Use Case #3. The user can check individual songs that he wishes to add to his playlist, or select the "check all" button for easier convenience. After confirming he has checked off all the desired songs, he can then proceed to add them to his playlist.
 
 5. User can confirm their additions and save the playlist (Spencer)
