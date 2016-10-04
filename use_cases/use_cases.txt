@@ -1,10 +1,12 @@
 Use Cases
 
 1. User connects to their Spotify account (Joe)
+  As a user, I want to be able to go to the webapp (url) and then use a widget to log into my Spotify account.
 
 2. User browses through their list of playlists, decides to add a certain amount of songs (Cullen)
 
 3. User can preview/listen to the returned songs before saving them (Joe)
+  As a user, when the webapp returns a list of songs that are a good fit for a selected playlist, I want to be able to listen to a "preview" or a short snippet of each song so I can decide whether I like the song/ want to add it to a new playlist. 
 
 4. User can select to add all/certain songs to their existing playlist (Steven)
 
